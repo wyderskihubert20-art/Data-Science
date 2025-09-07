@@ -31,11 +31,12 @@ Demonstrate integration of Python analysis with R Shiny visualization.
 Showcase end-to-end workflow from raw dataset to polished insights.
 
 ### Low Risk
-![Low Risk Prediction](Screenshot%202025-09-07%20121112.png)
+![Low Risk Prediction](images/Screenshot%202025-09-07%20121112.png)
 
 ### Medium Risk
-![Medium Risk Prediction](Screenshot%202025-09-07%20121132.png)
+![Medium Risk Prediction](images/Screenshot%202025-09-07%20121132.png)
 
 ### High Risk
-![High Risk Prediction](Screenshot%202025-09-07%20121147.png)
+![High Risk Prediction](images/Screenshot%202025-09-07%20121147.png)
+
 
