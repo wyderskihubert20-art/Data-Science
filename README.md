@@ -30,13 +30,12 @@ Demonstrate integration of Python analysis with R Shiny visualization.
 
 Showcase end-to-end workflow from raw dataset to polished insights.
 
-## Shiny App Risk Prediction Examples
-
 ### Low Risk
-![Low Risk Prediction](Screenshot 2025-09-07 121112.png)
+![Low Risk Prediction](Screenshot%202025-09-07%20121112.png)
 
 ### Medium Risk
-![Medium Risk Prediction](Screenshot 2025-09-07 121132.png)
+![Medium Risk Prediction](Screenshot%202025-09-07%20121132.png)
 
 ### High Risk
-![High Risk Prediction](Screenshot 2025-09-07 121147.png)
+![High Risk Prediction](Screenshot%202025-09-07%20121147.png)
+
