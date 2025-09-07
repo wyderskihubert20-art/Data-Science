@@ -44,13 +44,13 @@ Showcase end-to-end workflow from raw dataset to polished insights.
 ![High Risk Prediction](images/Screenshot%202025-09-07%20121147.png)
 
 ### Medium Risk
-![Low Risk Prediction](images/Screenshot%2025-09-07&121523.png)
+![Low Risk Prediction](images/Screenshot%202025-09-07%20121523.png)
 
 ### Low Risk
-![Low Risk Prediction](images/Screenshot%2025-09-07%121347.png)
+![Low Risk Prediction](images/Screenshot%202025-09-07%20121347.png)
 
 ### Dataset Distributution
-![Low Risk Prediction](images/Screenshot%2025-09-07%121603.png)
+![Low Risk Prediction](images/Screenshot%202025-09-07%20121603.png)
 
 **Dataset:** Credit Card Customers Dataset from [Kaggle](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
 
